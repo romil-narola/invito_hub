@@ -1,0 +1,170 @@
+{
+  "@@locale": "en",
+  "errorInvalidPhoneNumber": "Please enter a valid phone number",
+  "loginWelcomeTitle": "Welcome to\nInvitoHub",
+  "loginWelcomeSubtitle": "Invite everyone, instantly.",
+  "loginPhoneNumberLabel": "Phone Number",
+  "loginPhoneNumberHint": "+1 (234) 567-8900",
+  "loginSendOtpButton": "Send OTP",
+  "loginOrContinueWith": "Or continue with",
+  "loginContinueWithGoogle": "Continue with Google",
+  "errorInvalidOtp": "Please enter a valid 6-digit OTP",
+  "otpScreenTitle": "Verify OTP",
+  "otpInstructionText": "Enter the 6-digit code sent to your phone.",
+  "otpHintText": "------",
+  "otpVerifyButton": "Verify",
+  "greetingMorning": "Good Morning,",
+  "greetingAfternoon": "Good Afternoon,",
+  "greetingEvening": "Good Evening,",
+  "homeWelcomeBack": "Welcome back!",
+  "homeWhatToDoToday": "What would you like to do today?",
+  "homeActionCreateTitle": "Create",
+  "homeActionCreateSubtitle": "New invite",
+  "homeActionHistoryTitle": "History",
+  "homeActionHistorySubtitle": "Sent invites",
+  "homeRecentActivity": "Recent Activity",
+  "homeNoRecentInvitations": "No recent invitations sent.",
+  "homeFabNewInvite": "New Invite",
+  "guestNameWithPhone": "Guest ({phone})",
+  "@guestNameWithPhone": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "errorSelectDateTime": "Please select Date & Time",
+  "errorSelectContacts": "Please select at least one contact",
+  "createScreenEditTitle": "Edit Invitation",
+  "createScreenCreateTitle": "Create Invitation",
+  "createScreenEventDetails": "Event Details",
+  "createScreenInvitationType": "Invitation Type",
+  "createScreenEventTitleLabel": "Event Title (e.g., John's Birthday)",
+  "errorRequiredField": "Required field",
+  "createScreenHostedByLabel": "Hosted By",
+  "createScreenDateLabel": "Date",
+  "createScreenSelectDate": "Select Date",
+  "createScreenTimeLabel": "Time",
+  "createScreenSelectTime": "Select Time",
+  "createScreenLocationLabel": "Location / Address",
+  "createScreenMessageTitle": "Message",
+  "createScreenCustomMessageLabel": "Custom Message",
+  "createScreenAttachmentsTitle": "Attachments",
+  "createScreenAttachDocuments": "Attach Documents",
+  "createScreenGuestsTitle": "Guests",
+  "createScreenSelectContacts": "Select Contacts",
+  "createScreenContactsSelected": "{count} Contacts Selected",
+  "@createScreenContactsSelected": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "createScreenPreviewChanges": "Preview Changes",
+  "createScreenPreviewInvitation": "Preview Invitation",
+  "settingsScreenTitle": "Settings",
+  "settingsPreferencesTitle": "Preferences",
+  "settingsPushNotifications": "Notifications",
+  "settingsPushNotificationsSubtitle": "Reminders and updates",
+  "settingsDarkMode": "Dark Mode",
+  "settingsDarkModeSubtitle": "Toggle app theme",
+  "settingsLanguage": "Language",
+  "settingsSelectLanguage": "Select Language",
+  "settingsSupportTitle": "Support",
+  "settingsHelpCenter": "Help Center",
+  "settingsPrivacyPolicy": "Privacy Policy",
+  "settingsLogout": "Log Out",
+  "editProfileScreenTitle": "Edit Profile",
+  "editProfileFullNameLabel": "Full Name",
+  "errorEnterName": "Please enter your name",
+  "editProfileEmailLabel": "Email Address",
+  "errorEnterEmail": "Please enter your email",
+  "errorInvalidEmail": "Please enter a valid email",
+  "editProfilePhoneLabel": "Phone Number",
+  "errorEnterPhone": "Please enter your phone number",
+  "editProfileSuccessMessage": "Profile updated successfully!",
+  "editProfileSaveChanges": "Save Changes",
+  "editProfileChangePicture": "Change Profile Picture",
+  "editProfileChooseGallery": "Choose from Gallery",
+  "editProfileTakePhoto": "Take a Photo",
+  "editProfileRemovePhoto": "Remove Photo",
+  "contactsPickerTitle": "Select Contacts",
+  "contactsPickerDone": "Done ({count})",
+  "@contactsPickerDone": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "contactsPermissionError": "We need access to your contacts to let you invite friends.",
+  "contactsGenericError": "Error: {error}",
+  "@contactsGenericError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "contactsOpenSettings": "Open App Settings",
+  "contactsRetry": "Retry",
+  "contactsSearchHint": "Search contacts...",
+  "contactsNoPhoneNumber": "No phone number",
+  "historyScreenTitle": "Sent Invitations",
+  "historyGuestsInvited": "Guests: {count} invited",
+  "@historyGuestsInvited": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "previewScreenErrorWhatsApp": "Could not open WhatsApp",
+  "previewScreenErrorSMS": "Could not open SMS app",
+  "previewScreenErrorGeneric": "Error: {error}",
+  "@previewScreenErrorGeneric": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "previewScreenErrorTitle": "Error",
+  "previewScreenErrorMissingData": "Invitation data is missing",
+  "previewScreenTitle": "Preview",
+  "previewScreenWhatsAppLabel": "WhatsApp",
+  "previewScreenSMSLabel": "SMS",
+  "editProfileErrorPickImage": "Failed to pick image: {error}",
+  "@editProfileErrorPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "historyScreenNoInvitations": "No invitations sent yet.",
+  "historyScreenDate": "Date: {date}",
+  "@historyScreenDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "previewScreenReadyToSend": "Ready to send to {count} guest(s)?",
+  "@previewScreenReadyToSend": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "detailsScreenTitle": "Dashboard",
+  "detailsScreenViewCard": "View Invitation Card",
+  "detailsScreenRsvpSummary": "RSVP Summary",
+  "detailsScreenAttending": "Attending",
+  "detailsScreenPending": "Pending",
+  "detailsScreenDeclined": "Declined",
+  "detailsScreenGuestList": "Guest List"
+}
